@@ -5,7 +5,10 @@ supported versions:
 
 ## Preview
 
-> Add Screenshots of the theme
+![](./images/1.png)
+![](./images/2.png)
+![](./images/3.png)
+![](./images/4.png)
 
 ## Installation
 1. Copy the blossom folder to the IDA themes folder
